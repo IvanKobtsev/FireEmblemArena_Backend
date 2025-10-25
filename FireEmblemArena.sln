@@ -1,6 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireEmblemArena.ArenaService", "FireEmblemArena.ArenaService\FireEmblemArena.ArenaService.csproj", "{F03915C5-DF02-4C88-A1B4-F669B4A33AFE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireEmblemArena.CoreService", "FireEmblemArena.CoreService\FireEmblemArena.CoreService.csproj", "{F03915C5-DF02-4C88-A1B4-F669B4A33AFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireEmblemArena.UserService", "FireEmblemArena.UserService\FireEmblemArena.UserService.csproj", "{BD951D1E-7D8B-4F87-AD5E-4AAF438E7AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireEmblemArena.ChatService", "FireEmblemArena.ChatService\FireEmblemArena.ChatService.csproj", "{45282C64-1110-4F41-9900-031CC9ADEA93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireEmblemArena.Common", "FireEmblemArena.Common\FireEmblemArena.Common.csproj", "{2656EDA6-BCF7-44E4-B3D6-DE46E03A572A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +18,17 @@ Global
 		{F03915C5-DF02-4C88-A1B4-F669B4A33AFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F03915C5-DF02-4C88-A1B4-F669B4A33AFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F03915C5-DF02-4C88-A1B4-F669B4A33AFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD951D1E-7D8B-4F87-AD5E-4AAF438E7AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD951D1E-7D8B-4F87-AD5E-4AAF438E7AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD951D1E-7D8B-4F87-AD5E-4AAF438E7AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD951D1E-7D8B-4F87-AD5E-4AAF438E7AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45282C64-1110-4F41-9900-031CC9ADEA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45282C64-1110-4F41-9900-031CC9ADEA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45282C64-1110-4F41-9900-031CC9ADEA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45282C64-1110-4F41-9900-031CC9ADEA93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2656EDA6-BCF7-44E4-B3D6-DE46E03A572A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2656EDA6-BCF7-44E4-B3D6-DE46E03A572A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2656EDA6-BCF7-44E4-B3D6-DE46E03A572A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2656EDA6-BCF7-44E4-B3D6-DE46E03A572A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

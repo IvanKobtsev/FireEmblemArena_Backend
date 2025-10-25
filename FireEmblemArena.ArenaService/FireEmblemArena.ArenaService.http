@@ -1,6 +1,0 @@
-@FireEmblemArena.ArenaService_HostAddress = http://localhost:5243
-
-GET {{FireEmblemArena.ArenaService_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
